@@ -66,3 +66,7 @@
 - static 메서드2
 - static 메서드3
 - 문제와 풀이
+
+### Section 8 - final
+
+- final 변수와 상수1
