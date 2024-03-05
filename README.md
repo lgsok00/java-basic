@@ -70,3 +70,4 @@
 ### Section 8 - final
 
 - final 변수와 상수1
+- final 변수와 상수2
